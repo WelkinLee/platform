@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dataManagement/dataManagementWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/deviceManagement/deviceManagementWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/dubboDemo/dubboDemoConsumerWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/dubboDemo/dubboDemoProviderWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/inspectManagement/inspectAdminWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/inspectManagement/inspectManagementWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/realtimeMonitor/realtimeMonitorWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/rentManagement/rentManagementWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/riskManagement/riskManagementWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/studentManageSystem/studentManageSystemWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/trackSystem/trackSystemWeb" />
+  </component>
+  <component name="IdProvider" IDEtalkID="5952807C05E9D69138F76A74538F06A1" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dataManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/dataManagement/dataManagementWeb/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dataManagement/dataManagement-business/pom.xml" />
+        <option value="$PROJECT_DIR$/dataManagement/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
